@@ -1,0 +1,8 @@
+.venv
+data
+save.txt
+Zero_GB_Used.txt
+__pycache__
+data.txt
+*.exe
+*.log
