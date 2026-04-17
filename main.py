@@ -19,7 +19,7 @@ ROYAL_BLUE = '\033[94m'
 RESET = '\033[0m'
 
 # Основные настройки
-os.system(f"title Mega.nz Checker 23XT [BuXoI Wolf] and .susu. [スペースー]")
+os.system(f"title Mega.nz Checker 23XT [BuXoI Wolf] and KuroV [スペースー]")
 logo()
 now = datetime.now()
 formatted_time = now.strftime("%Y/%m/%d %H:%M:%S")
