@@ -36,6 +36,6 @@ def logo():
  \____| |_| |_|  \___|  \___| |_|\_\ \___| |_| 
  
   {MAGENTA}      -Mega.nz Account Checker
-        -Coded by 23XT and .susu.{RESET} 
+        -Coded by 23XT and Methodllo {RESET} 
         """)
     
